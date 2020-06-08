@@ -1,0 +1,1 @@
+const duplicate = xs => [...xs, ...xs]

@@ -1,0 +1,1 @@
+const union = (xs, ys) => [...new Set([...xs, ...ys])]

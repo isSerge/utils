@@ -1,0 +1,1 @@
+const product = xs => xs.reduce((res, x) => res * x, 1)

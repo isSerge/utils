@@ -1,0 +1,1 @@
+const tail = ([, ...tail]) => tail

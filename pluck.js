@@ -1,0 +1,1 @@
+const pluck = (key, xs) => xs.map(x => x[key])

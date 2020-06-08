@@ -1,0 +1,1 @@
+const zip = (xs, ys) => xs.map((x, i) => [x, ys[i]])

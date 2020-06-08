@@ -1,0 +1,1 @@
+const minimum = xs => Math.min(...xs)

@@ -1,0 +1,1 @@
+const any = (func, xs) => xs.some(func)

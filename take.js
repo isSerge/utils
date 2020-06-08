@@ -1,0 +1,1 @@
+const take = (n, xs) => xs.slice(0, n < 0 ? Infinity : n)

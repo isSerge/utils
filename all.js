@@ -1,0 +1,1 @@
+const all = (func, xs) => xs.every(func)

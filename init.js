@@ -1,0 +1,1 @@
+const init = xs => xs.slice(0, -1)

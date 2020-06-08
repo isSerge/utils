@@ -1,0 +1,1 @@
+const maximum = xs => Math.max(...xs)
